@@ -4,7 +4,7 @@
 [![Stanford University](https://img.shields.io/badge/Stanford_University-red?style=for-the-badge&logo=Stanford_University&logoColor=white)](https://www.stanford.edu/)
 [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-blue?style=for-the-badge&logo=DeepLearning.AI&logoColor=white)](https://deeplearning.ai/)
 
-
+[Link course here!](https://www.coursera.org/specializations/machine-learning-introduction)
 This repository documents my rewarding journey through the Machine Learning Specialization on Coursera, offered by Stanford University and DeepLearning.AI. 
 
 ## ✨ My Personal Takeaways ✨
