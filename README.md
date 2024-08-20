@@ -1,11 +1,18 @@
-# 🚀 Machine Learning Specialization Journey 
+# 🚀 Machine Learning Specialization
 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
 [![Stanford University](https://img.shields.io/badge/Stanford_University-red?style=for-the-badge&logo=Stanford_University&logoColor=white)](https://www.stanford.edu/)
 [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-blue?style=for-the-badge&logo=DeepLearning.AI&logoColor=white)](https://deeplearning.ai/)
 
+## Status: Complete! <br>
+![image](https://github.com/quang2719/Machine-Learning-Specialization-Stanford-Online-Deeplearning.ai/blob/main/Final%20result/Screenshot%202024-08-20%20132101.png?raw=true)<br>
+## Course resource
 [Link course here!](https://www.coursera.org/specializations/machine-learning-introduction)
-This repository documents my rewarding journey through the Machine Learning Specialization on Coursera, offered by Stanford University and DeepLearning.AI. 
+Coursera
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+Notion
+[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/
+
 
 ## ✨ My Personal Takeaways ✨
 
