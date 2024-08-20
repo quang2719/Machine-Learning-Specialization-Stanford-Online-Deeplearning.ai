@@ -6,12 +6,10 @@
 
 ## Status: Complete! <br>
 ![image](https://github.com/quang2719/Machine-Learning-Specialization-Stanford-Online-Deeplearning.ai/blob/main/Final%20result/Screenshot%202024-08-20%20132101.png?raw=true)<br>
-## Course resource
-[Link course here!](https://www.coursera.org/specializations/machine-learning-introduction)
-Coursera
+## Course resource link
+
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
-Notion
-[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/
+[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://coordinated-title-01a.notion.site/Machine-Learning-Specialization-0c473cfe96a24981961c2df69ec08084)
 
 
 ## ✨ My Personal Takeaways ✨
@@ -27,14 +25,8 @@ Notion
 * 🛍️ Recommender Systems: Built recommender systems using collaborative filtering and content-based approaches.
 * 🤖 Deep Reinforcement Learning: Delved into the world of deep reinforcement learning, training agents to make optimal decisions.
 
-## 📁 Repository Structure 
-
-* 📕 [Course Notes](https://coordinated-title-01a.notion.site/Machine-Learning-Specialization-0c473cfe96a24981961c2df69ec08084?pvs=4):  My in-depth notes and reflections on key concepts, organized in Notion.
-
-
 ## ✨ Let's Connect! 
 
-Feel free to reach out if you have any questions or would like to collaborate on ML projects!
-
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nguyen-2003-ptit/) 
 
